@@ -1,0 +1,4 @@
+---
+- name: Welcome or cry for help?
+  debug:
+    msg: "Hello, world!"
